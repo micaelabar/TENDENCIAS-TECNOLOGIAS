@@ -153,7 +153,8 @@ git config --global user.name "Tu Nombre"
 Tras la compilación exitosa, la aplicación Angular se ejecutó correctamente en el puerto 4200 del entorno local. La pantalla de bienvenida de Angular se visualizó en el navegador confirmando que el servidor está funcionando correctamente.
 
 ## Evidencia:
-<imag!![image](https://github.com/user-attachments/assets/701f5347-e8d5-46fc-9e94-d21520dbcf50)
+<imag!![imagen 10](https://github.com/user-attachments/assets/e87e9389-eb46-467c-a6e2-583fb78542ef)
+
 
 ## 10. Conclusión:
 El proceso de instalación de WSL y Ubuntu en Windows es eficiente y accesible, gracias a los comandos integrados de Windows 10 y 11, lo que simplifica la implementación de un entorno Linux dentro de un sistema operativo Windows. WSL ofrece una solución robusta para ejecutar una distribución Linux completa, brindando a los desarrolladores un entorno ideal para tareas de desarrollo web, sin necesidad de recurrir a máquinas virtuales o particiones duales.
